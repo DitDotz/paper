@@ -4,8 +4,8 @@ XXX and Simulations
 
 ## Author
 
-Me
-author 2
+Me (Uo)
+author 2 (UoN)
 
 ## Introduction
 
